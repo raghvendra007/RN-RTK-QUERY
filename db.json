@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "body": "data",
+      "title": "new",
+      "id": 54.38646972383185
+    }
+  ]
+}
